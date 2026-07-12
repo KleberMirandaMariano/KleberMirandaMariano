@@ -5,6 +5,7 @@
 🔹 Combinando expertise em seguros com programação
 🔹 Desenvolvendo soluções quantitativas para o mercado brasileiro (B3) e criptomoedas
 🔹 Automatizando rotinas e processos com Python e IA
+🔹 **Todo o código deste perfil é desenvolvido por IA**, sob minha direção
 
 ### 🛠️ Tecnologias
 
@@ -24,9 +25,9 @@
 
 > 🔒 A maioria dos projetos está em repositórios privados por envolver estratégias de investimento em uso.
 
-### 🤖 Desenvolvimento Assistido por IA
+### 🤖 Desenvolvimento 100% por IA
 
-Utilizo **Inteligência Artificial** (Claude Code, ChatGPT e outras ferramentas) como parceira no desenvolvimento — da geração de código à análise de dados —, incluindo um repositório próprio de skills personalizadas para o Claude.
+**Todos os projetos deste perfil são desenvolvidos por Inteligência Artificial** (Claude Code, ChatGPT e outras ferramentas), sob minha direção: eu defino a visão, os requisitos e valido os resultados, e a IA escreve o código — da arquitetura à análise de dados. Mantenho inclusive um repositório próprio de skills personalizadas para o Claude.
 
 ### 📊 Áreas de Interesse
 
